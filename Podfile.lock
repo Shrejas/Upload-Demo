@@ -1,0 +1,46 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - DBCameraButton (1.0.0)
+  - IQMediaPickerController (2.0.0):
+    - DBCameraButton
+    - SCSiriWaveformView
+  - ObjectiveDropboxOfficial (3.10.0)
+  - SCSiriWaveformView (1.1.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - IQMediaPickerController
+  - ObjectiveDropboxOfficial
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - DBCameraButton
+    - IQMediaPickerController
+    - ObjectiveDropboxOfficial
+    - SCSiriWaveformView
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  DBCameraButton: 969d585df804df5b413936a7bf5d77c562ca2307
+  IQMediaPickerController: d8c88f955bcc67e8c2703538f63cc670c56b82a2
+  ObjectiveDropboxOfficial: 19a4913d4d52fba035d41f40da71df0d6b303327
+  SCSiriWaveformView: 15b9dd6f94c7536e2032b34a35c6ff74d38c7411
+
+PODFILE CHECKSUM: b26f3b745bd14aead4cf005d52d612ebe97a5bb8
+
+COCOAPODS: 1.7.5
